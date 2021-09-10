@@ -7,7 +7,7 @@ A little excercise for my MISIONTIC 2022 53435Course Classmates
 <h1 align="center">HTML CSS First Challenge</h1>
 
 <div align="center">
-  A first Challenge for my classmates into MISIONTIC2022 Classmates
+  A first Challenge for my classmates into MISIONTIC2022
 </div>
 
 <div align="center">
