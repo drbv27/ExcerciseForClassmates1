@@ -1,5 +1,7 @@
 # ExcerciseForClassmates1
+
 A little excercise for my MISIONTIC 2022 53435Course Classmates
+
 <!-- Please update value in the {}  -->
 
 <h1 align="center">HTML CSS First Challenge</h1>
@@ -44,10 +46,10 @@ A little excercise for my MISIONTIC 2022 53435Course Classmates
 This is a first challenge for my classmates into MISIONTIC2022 53435 Course:
 
 -The site demo it's [here](https://htmlcssexcercise1.netlify.app/)
+
 - what are you going to learn and improved?
   - Semantic HTML5
   - Artesanal CSS
-
 
 ### Built With
 
@@ -55,7 +57,6 @@ This is a first challenge for my classmates into MISIONTIC2022 53435 Course:
 
 - [HTML5 & CSS3]
 - Deployed with [Netlify](https://www.netlify.com/)
-
 
 ## Features
 
@@ -66,14 +67,15 @@ This application/site was created as a Practice challenge for my classmates.
 ## User Stories
 
 - HTML:
+
   - use the 3 main semantic TAGS (header, main, footer) to organize your html code
   - use good coding practice
   - the image can be dinamic extract an src from [placeimg](https://placeimg.com)
   - you can put the text inside the inputs with the placeholder="your text" attribute inside the tag
-  - the copyright symbol can put with: &copy;  code
+  - the copyright symbol can put with: &copy; code
   - try to use: ids and clases to improve your styles use
- 
- - CSS:
+
+- CSS:
   - The font family for all document are: Helvetica, Arial, sans-serif
   - The header color are cornflowerblue
   - The header have a little padding (you can use 5px or near)
@@ -81,12 +83,7 @@ This application/site was created as a Practice challenge for my classmates.
   - remember the use of :hover pseudoclass for the buttons and anchor effects
   - the image are putting into a semantic tag (remember figure)
   - for align texts remeber the use of "text-align" CSS Property
-  - there are a list of original colors: cornflowerblue,white,lightblue,darkslateblue,lightgray,teal,lightslategray,dodgerblue,bisque. "but feel free to use your own palette"
-  
-  
-  
-  
-
+  - there are a list of original colors: cornflowerblue ,white ,lightblue ,darkslateblue ,lightgray ,teal ,lightslategray ,dodgerblue ,bisque . "but feel free to use your own palette"
 
 ## Contact
 
