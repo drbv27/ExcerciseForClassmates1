@@ -1,0 +1,97 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+.colorppal {
+  color: darkblue;
+  text-align: center;
+}
+header {
+  background-color: cornflowerblue;
+  padding: 5px;
+}
+
+header ul li {
+  display: inline;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 4px;
+}
+
+header ul li:hover {
+  background-color: white;
+}
+
+header nav ul li a:hover {
+  color: cornflowerblue;
+}
+
+header ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+main section figure {
+  text-align: center;
+}
+
+.subt1 {
+  text-align: right;
+}
+#section1 {
+  background-color: lightblue;
+}
+#section1 p::first-line {
+  font-weight: bold;
+  color: darkslateblue;
+}
+
+#section1 p::first-letter {
+  font-size: 1.5rem;
+}
+
+footer {
+  font-size: 0.8rem;
+  background-color: cornflowerblue;
+  padding: 5px;
+  color: lightgray;
+  text-align: center;
+}
+
+footer a {
+  color: teal;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#section3 {
+  background-color: lightblue;
+}
+
+input,
+textarea {
+  display: block;
+  padding: 2vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  width: 90vw;
+}
+
+#section4 {
+  border: 1px solid lightslategray;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+#section4 #submit {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vw;
+  background-color: dodgerblue;
+  color: bisque;
+  font-weight: bolder;
+}
+
+#section4 #submit:hover {
+  background-color: bisque;
+  color: dodgerblue;
+}
